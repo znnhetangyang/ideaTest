@@ -1,0 +1,4 @@
+com\ryit\springcloud\pojo\Dept.class
+com\ryit\springcloud\service\DeptClientService.class
+com\ryit\springcloud\service\DeptClientServiceFallbackFactory$1.class
+com\ryit\springcloud\service\DeptClientServiceFallbackFactory.class

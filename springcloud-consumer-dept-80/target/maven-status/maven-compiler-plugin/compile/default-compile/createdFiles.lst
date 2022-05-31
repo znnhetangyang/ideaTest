@@ -1,0 +1,5 @@
+com\ryit\myrule\TangRule.class
+com\ryit\springcloud\config\ConfigBean.class
+com\ryit\springcloud\DeptConsumer_80.class
+com\ryit\springcloud\controller\DeptConsumerController.class
+com\ryit\myrule\MyRandomRule.class
